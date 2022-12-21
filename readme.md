@@ -1,6 +1,6 @@
 # TypeScript Course - COD3R
 
-Repositório criado para registro de estudo durante o curso desenvolvido pela COD3R dentro da plataforma Udemy
+Este repositório é um fork de LeandrodeLimaC que foi criado para registro de estudo durante o curso desenvolvido pela COD3R dentro da plataforma Udemy
 
 Requisitos
 ---
@@ -39,7 +39,7 @@ npm run start
 Certificado
 ---
 
-[![Certificado do curso de TypeScript realizado na Udemy com assinaturas dos instrutores](certificado.jpg "Certificado do curso com link para pagina de conclusão")](https://www.udemy.com/certificate/UC-be250b05-250b-4e34-9c3d-63a9cfdab369/)
+[![Certificado do curso de TypeScript realizado na Udemy com assinaturas dos instrutores](certificado.jpg "Certificado do curso com link para pagina de conclusão")](https://www.udemy.com/certificate/UC-827e377e-ada9-4323-92ce-c2428f42a71e/)
 #### Progresso
 
 - [x] Seção 1: Introdução
