@@ -39,7 +39,7 @@ npm run start
 Certificado
 ---
 
-[![Certificado do curso de TypeScript realizado na Udemy com assinaturas dos instrutores](https://www.udemy.com/certificate/UC-827e377e-ada9-4323-92ce-c2428f42a71e/)
+[Certificado do curso de TypeScript realizado na Udemy com assinaturas dos instrutores](https://www.udemy.com/certificate/UC-827e377e-ada9-4323-92ce-c2428f42a71e/)
 #### Progresso
 
 - [x] Seção 1: Introdução
